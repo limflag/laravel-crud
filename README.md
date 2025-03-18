@@ -55,8 +55,14 @@ npm run install && npm run build # para ativar o vite
 composer update
 # aplicar as migrações dos modelos
 php artisan migrate
+# para criar a chave da aplicação
+php artisan key:generate
 ```
 Ao criar o primeiro usuario, para alterar as vagas ou os usuarios, ele precisa ser criado através do comando
 ```bash
 php artisan make:admnin admin@example.com --name="Super Admin" --password="strongPassword123"
+```
+Não esquecer de popular o banco com os dados das factories de vagas
+```bash
+php artisan db:seed
 ```
