@@ -1,0 +1,17 @@
+{
+  "resources/css/LexendMega.ttf": {
+    "file": "assets/LexendMega-C-T_pNm_.ttf",
+    "src": "resources/css/LexendMega.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DdsMucK9.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DspuE8pW.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
