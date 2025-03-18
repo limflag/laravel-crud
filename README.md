@@ -1,6 +1,6 @@
 # Usando a aplicação
 Projeto criado para entrevista tecnica de vaga backend developer PHP
-Criado para ser usado com Laravel Homestead, siga a documentação para configurar seu homestead.
+Criado para ser usado com Laravel Homestead(https://laravel.com/docs/12.x/homestead), siga a documentação para configurar seu homestead.
 Features do homestead necessarias:
 - Postgressql
 - ZSH (Opcional)
