@@ -56,3 +56,7 @@ composer update
 # aplicar as migrações dos modelos
 php artisan migrate
 ```
+Ao criar o primeiro usuario, para alterar as vagas ou os usuarios, ele precisa ser criado através do comando
+```bash
+php artisan make:admnin admin@example.com --name="Super Admin" --password="strongPassword123"
+```
