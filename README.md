@@ -66,3 +66,4 @@ Não esquecer de popular o banco com os dados das factories de vagas
 ```bash
 php artisan db:seed
 ```
+Por padrão do homestead o banco e o login do postgres será <code>homestead</code> e a senha é <code>secret</code>
